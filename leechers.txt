@@ -2,6 +2,7 @@ reddit.com
 forocoches.com
 eldiario.es
 xda-developers.com
+forum.xda-developers.com
 bandaancha.eu
 htcmania.com
 punto-informatico.it
