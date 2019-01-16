@@ -12,3 +12,4 @@ avforums.com
 avsforum.com
 elpais.com
 web.telegram.org
+web.whatsapp.com
